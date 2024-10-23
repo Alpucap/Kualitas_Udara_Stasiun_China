@@ -1,0 +1,5 @@
+Dalam analisis data Air Quality ini saya menggunakan beberapa library python yaitu: 
+pandas as pd
+matplotlib.pyplot
+seaborn as sns
+numpy as np
